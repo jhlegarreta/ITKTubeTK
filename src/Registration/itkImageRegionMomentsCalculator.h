@@ -130,7 +130,7 @@ public:
 
   /** Set the spatial object mask. */
   virtual void SetSpatialObjectMask(
-    const SpatialObject<itkGetStaticConstMacro( ImageDimension )> * so )
+    const SpatialObjectType * so )
     {
     if( m_SpatialObjectMask != so )
       {
