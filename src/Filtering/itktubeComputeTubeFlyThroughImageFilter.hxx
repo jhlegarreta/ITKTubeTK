@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeComputeTubeFlyThroughImageFilter_hxx
-#define __itktubeComputeTubeFlyThroughImageFilter_hxx
+#ifndef itktubeComputeTubeFlyThroughImageFilter_hxx
+#define itktubeComputeTubeFlyThroughImageFilter_hxx
 
 
 #include <itkImageRegionIterator.h>

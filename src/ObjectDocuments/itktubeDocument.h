@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeDocument_h
-#define __itktubeDocument_h
+#ifndef itktubeDocument_h
+#define itktubeDocument_h
 
 #include <itkDataObject.h>
 #include <itkObjectFactory.h>

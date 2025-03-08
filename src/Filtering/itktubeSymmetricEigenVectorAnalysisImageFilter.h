@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeSymmetricEigenVectorAnalysisImageFilter_h
-#define __itktubeSymmetricEigenVectorAnalysisImageFilter_h
+#ifndef itktubeSymmetricEigenVectorAnalysisImageFilter_h
+#define itktubeSymmetricEigenVectorAnalysisImageFilter_h
 
 #include <itkSymmetricEigenAnalysis.h>
 #include <itkUnaryFunctorImageFilter.h>

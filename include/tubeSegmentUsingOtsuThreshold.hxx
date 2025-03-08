@@ -19,8 +19,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeSegmentUsingOtsuThreshold_hxx
-#define __tubeSegmentUsingOtsuThreshold_hxx
+#ifndef tubeSegmentUsingOtsuThreshold_hxx
+#define tubeSegmentUsingOtsuThreshold_hxx
 
 
 namespace tube

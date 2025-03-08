@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __itktubeComputeImageSimilarityMetrics_hxx
-#define __itktubeComputeImageSimilarityMetrics_hxx
+#ifndef itktubeComputeImageSimilarityMetrics_hxx
+#define itktubeComputeImageSimilarityMetrics_hxx
 
 // ITK includes
 #include <itkIdentityTransform.h>

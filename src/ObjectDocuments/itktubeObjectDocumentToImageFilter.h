@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeObjectDocumentToImageFilter_h
-#define __itktubeObjectDocumentToImageFilter_h
+#ifndef itktubeObjectDocumentToImageFilter_h
+#define itktubeObjectDocumentToImageFilter_h
 
 #include "itktubeObjectDocumentToObjectSource.h"
 

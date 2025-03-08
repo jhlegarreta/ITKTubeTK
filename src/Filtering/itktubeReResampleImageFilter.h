@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeReResampleImageFilter_h
-#define __itktubeReResampleImageFilter_h
+#ifndef itktubeReResampleImageFilter_h
+#define itktubeReResampleImageFilter_h
 
 #include <itkBSplineInterpolateImageFunction.h>
 #include <itkCompensatedSummation.h>

@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeJointHistogramImageFunction_hxx
-#define __itktubeJointHistogramImageFunction_hxx
+#ifndef itktubeJointHistogramImageFunction_hxx
+#define itktubeJointHistogramImageFunction_hxx
 
 
 #include <itkAddImageFilter.h>

@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeCropImage_h
-#define __tubeCropImage_h
+#ifndef tubeCropImage_h
+#define tubeCropImage_h
 
 #include "itkProcessObject.h"
 

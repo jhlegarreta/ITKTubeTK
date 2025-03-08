@@ -15,8 +15,8 @@
 
 =========================================================================*/
 
-#ifndef __RigidImageToImageRegistrationMethod_hxx
-#define __RigidImageToImageRegistrationMethod_hxx
+#ifndef RigidImageToImageRegistrationMethod_hxx
+#define RigidImageToImageRegistrationMethod_hxx
 
 #include "vnl/vnl_inverse.h"
 

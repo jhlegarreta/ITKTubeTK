@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __tubeStringUtilities_h
-#define __tubeStringUtilities_h
+#ifndef tubeStringUtilities_h
+#define tubeStringUtilities_h
 
 #include "tubeMacro.h"
 

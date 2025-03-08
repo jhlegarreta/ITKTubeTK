@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeSheetnessMeasureImageFilter_hxx
-#define __itktubeSheetnessMeasureImageFilter_hxx
+#ifndef itktubeSheetnessMeasureImageFilter_hxx
+#define itktubeSheetnessMeasureImageFilter_hxx
 
 
 #include <itkImageRegionIterator.h>

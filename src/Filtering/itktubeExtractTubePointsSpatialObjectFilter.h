@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeExtractTubePointsSpatialObjectFilter_h
-#define __itktubeExtractTubePointsSpatialObjectFilter_h
+#ifndef itktubeExtractTubePointsSpatialObjectFilter_h
+#define itktubeExtractTubePointsSpatialObjectFilter_h
 
 #include <itkDataObjectDecorator.h>
 #include <itkGroupSpatialObject.h>

@@ -15,8 +15,8 @@
  *  limitations under the License.
  *
 *=========================================================================*/
-#ifndef __tubeSegmentTubes_hxx
-#define __tubeSegmentTubes_hxx
+#ifndef tubeSegmentTubes_hxx
+#define tubeSegmentTubes_hxx
 
 
 

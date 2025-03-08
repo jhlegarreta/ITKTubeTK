@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itkAnisotropicSimilarityLandmarkBasedTransformInitializer_hxx
-#define __itkAnisotropicSimilarityLandmarkBasedTransformInitializer_hxx
+#ifndef itkAnisotropicSimilarityLandmarkBasedTransformInitializer_hxx
+#define itkAnisotropicSimilarityLandmarkBasedTransformInitializer_hxx
 
 #include "itkMatrix.h"
 #include "itkSymmetricEigenAnalysis.h"

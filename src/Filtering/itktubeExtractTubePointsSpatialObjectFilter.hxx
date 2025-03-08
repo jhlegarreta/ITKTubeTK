@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeExtractTubePointsSpatialObjectFilter_hxx
-#define __itktubeExtractTubePointsSpatialObjectFilter_hxx
+#ifndef itktubeExtractTubePointsSpatialObjectFilter_hxx
+#define itktubeExtractTubePointsSpatialObjectFilter_hxx
 
 
 #include "tubeTubeMathFilters.h"

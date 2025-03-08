@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeEnhanceContrastUsingPriorImageFilter_h
-#define __itktubeEnhanceContrastUsingPriorImageFilter_h
+#ifndef itktubeEnhanceContrastUsingPriorImageFilter_h
+#define itktubeEnhanceContrastUsingPriorImageFilter_h
 
 #include <itkArray.h>
 #include <itkImageToImageFilter.h>

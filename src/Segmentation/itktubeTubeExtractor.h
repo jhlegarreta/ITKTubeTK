@@ -26,8 +26,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeTubeExtractor_h
-#define __itktubeTubeExtractor_h
+#ifndef itktubeTubeExtractor_h
+#define itktubeTubeExtractor_h
 
 #include "itktubeRadiusExtractor3.h"
 #include "itktubeRidgeExtractor.h"

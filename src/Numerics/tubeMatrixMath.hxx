@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __tubeMatrixMath_hxx
-#define __tubeMatrixMath_hxx
+#ifndef tubeMatrixMath_hxx
+#define tubeMatrixMath_hxx
 
 
 #include <vnl/algo/vnl_symmetric_eigensystem.h>

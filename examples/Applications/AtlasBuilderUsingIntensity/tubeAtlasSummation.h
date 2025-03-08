@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeAtlasSummation_h
-#define __tubeAtlasSummation_h
+#ifndef tubeAtlasSummation_h
+#define tubeAtlasSummation_h
 
 #include "itktubeCompleteImageResampleFilter.h"
 #include "itktubeMeanAndSigmaImageBuilder.h"

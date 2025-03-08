@@ -21,8 +21,8 @@
 
 =========================================================================*/
 
-#ifndef __itktubeMinimumSpanningTreeVesselConnectivityFilter_h
-#define __itktubeMinimumSpanningTreeVesselConnectivityFilter_h
+#ifndef itktubeMinimumSpanningTreeVesselConnectivityFilter_h
+#define itktubeMinimumSpanningTreeVesselConnectivityFilter_h
 
 #include "itkGroupSpatialObject.h"
 #include "itkImage.h"

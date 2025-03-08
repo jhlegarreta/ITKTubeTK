@@ -19,8 +19,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeSegmentTubes_h
-#define __tubeSegmentTubes_h
+#ifndef tubeSegmentTubes_h
+#define tubeSegmentTubes_h
 
 // ITK Includes
 #include "itkProcessObject.h"

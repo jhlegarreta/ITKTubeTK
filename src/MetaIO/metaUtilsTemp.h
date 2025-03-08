@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __metaUtilsTemp_h
-#define __metaUtilsTemp_h
+#ifndef metaUtilsTemp_h
+#define metaUtilsTemp_h
 
 #include "metaTypes.h"
 

@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeEnhanceContrastUsingPriorImageFilter_hxx
-#define __itktubeEnhanceContrastUsingPriorImageFilter_hxx
+#ifndef itktubeEnhanceContrastUsingPriorImageFilter_hxx
+#define itktubeEnhanceContrastUsingPriorImageFilter_hxx
 
 
 namespace itk

@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __tubeSplineND_h
-#define __tubeSplineND_h
+#ifndef tubeSplineND_h
+#define tubeSplineND_h
 
 #include "tubeOptimizer1D.h"
 #include "tubeOptimizerND.h"

@@ -15,8 +15,8 @@
  *  limitations under the License.
  *
 *=========================================================================*/
-#ifndef __tubeConvertTubesToDensityImage_hxx
-#define __tubeConvertTubesToDensityImage_hxx
+#ifndef tubeConvertTubesToDensityImage_hxx
+#define tubeConvertTubesToDensityImage_hxx
 
 
 namespace tube

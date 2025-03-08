@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeSegmentUsingOtsuThreshold_h
-#define __tubeSegmentUsingOtsuThreshold_h
+#ifndef tubeSegmentUsingOtsuThreshold_h
+#define tubeSegmentUsingOtsuThreshold_h
 
 // ITK includes
 #include "itkProcessObject.h"

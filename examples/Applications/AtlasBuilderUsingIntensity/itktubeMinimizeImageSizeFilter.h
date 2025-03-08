@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeMinimizeImageSizeFilter_h
-#define __itktubeMinimizeImageSizeFilter_h
+#ifndef itktubeMinimizeImageSizeFilter_h
+#define itktubeMinimizeImageSizeFilter_h
 
 #include <itkImageSliceIteratorWithIndex.h>
 #include <itkImageToImageFilter.h>

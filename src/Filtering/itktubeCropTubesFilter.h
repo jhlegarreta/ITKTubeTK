@@ -21,8 +21,8 @@
 
 =========================================================================*/
 
-#ifndef __itktubeCropTubesFilter_h
-#define __itktubeCropTubesFilter_h
+#ifndef itktubeCropTubesFilter_h
+#define itktubeCropTubesFilter_h
 
 #include "itkGroupSpatialObject.h"
 #include "itkImage.h"

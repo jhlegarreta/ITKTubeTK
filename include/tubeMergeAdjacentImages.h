@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeMergeAdjacentImages_h
-#define __tubeMergeAdjacentImages_h
+#ifndef tubeMergeAdjacentImages_h
+#define tubeMergeAdjacentImages_h
 
 // standard includes
 #include <string>

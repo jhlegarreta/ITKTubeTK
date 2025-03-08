@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __tubeShortestPathKernel_h
-#define __tubeShortestPathKernel_h
+#ifndef tubeShortestPathKernel_h
+#define tubeShortestPathKernel_h
 
 #include "GraphKernel.h"
 

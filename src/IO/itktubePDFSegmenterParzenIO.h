@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubePDFSegmenterParzenIO_h
-#define __itktubePDFSegmenterParzenIO_h
+#ifndef itktubePDFSegmenterParzenIO_h
+#define itktubePDFSegmenterParzenIO_h
 
 #include "itktubeMetaClassPDF.h"
 

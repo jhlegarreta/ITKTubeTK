@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeFeatureVectorGenerator_h
-#define __itktubeFeatureVectorGenerator_h
+#ifndef itktubeFeatureVectorGenerator_h
+#define itktubeFeatureVectorGenerator_h
 
 #include <itkImage.h>
 #include <itkLightProcessObject.h>

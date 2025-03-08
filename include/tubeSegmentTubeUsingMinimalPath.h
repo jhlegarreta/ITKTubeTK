@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeSegmentTubeUsingMinimalPath_h
-#define __tubeSegmentTubeUsingMinimalPath_h
+#ifndef tubeSegmentTubeUsingMinimalPath_h
+#define tubeSegmentTubeUsingMinimalPath_h
 
 // ITK includes
 #include <itkGroupSpatialObject.h>

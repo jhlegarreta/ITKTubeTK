@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __itktubeTubeExtractorIO_hxx
-#define __itktubeTubeExtractorIO_hxx
+#ifndef itktubeTubeExtractorIO_hxx
+#define itktubeTubeExtractorIO_hxx
 
 
 namespace itk

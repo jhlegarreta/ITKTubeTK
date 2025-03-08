@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeFeatureVectorGenerator_hxx
-#define __itktubeFeatureVectorGenerator_hxx
+#ifndef itktubeFeatureVectorGenerator_hxx
+#define itktubeFeatureVectorGenerator_hxx
 
 
 

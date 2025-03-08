@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubePointBasedSpatialObjectToImageMetric_h
-#define __itktubePointBasedSpatialObjectToImageMetric_h
+#ifndef itktubePointBasedSpatialObjectToImageMetric_h
+#define itktubePointBasedSpatialObjectToImageMetric_h
 
 #include <vector>
 

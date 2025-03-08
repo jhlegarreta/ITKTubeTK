@@ -20,7 +20,7 @@
 
 #include "itkImageSink.h"
 #include "itkSimpleDataObjectDecorator.h"
-#ifndef __wasi__
+#ifndef wasi__
 #include <mutex>
 #endif
 
@@ -155,7 +155,7 @@ private:
   PixelType m_MinimumLimit;
   PixelType m_MaximumLimit;
 
-#ifndef __wasi__
+#ifndef wasi__
   std::mutex m_Mutex;
 #endif
 };

@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeSingleValuedCostFunctionImageSource_h
-#define __itktubeSingleValuedCostFunctionImageSource_h
+#ifndef itktubeSingleValuedCostFunctionImageSource_h
+#define itktubeSingleValuedCostFunctionImageSource_h
 
 #include <itkImageSource.h>
 

@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeBlobSpatialObjectDocument_h
-#define __itktubeBlobSpatialObjectDocument_h
+#ifndef itktubeBlobSpatialObjectDocument_h
+#define itktubeBlobSpatialObjectDocument_h
 
 #include "itktubeSpatialObjectDocument.h"
 

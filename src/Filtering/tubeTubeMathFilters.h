@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __tubeTubeMathFilters_h
-#define __tubeTubeMathFilters_h
+#ifndef tubeTubeMathFilters_h
+#define tubeTubeMathFilters_h
 
 #include <itkImageFileReader.h>
 #include "itkGroupSpatialObject.h"

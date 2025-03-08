@@ -19,8 +19,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeWriteTubesAsPolyData_h
-#define __tubeWriteTubesAsPolyData_h
+#ifndef tubeWriteTubesAsPolyData_h
+#define tubeWriteTubesAsPolyData_h
 
 // ITK Includes
 #include "itkProcessObject.h"

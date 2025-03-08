@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeMetaNJetLDA_h
-#define __itktubeMetaNJetLDA_h
+#ifndef itktubeMetaNJetLDA_h
+#define itktubeMetaNJetLDA_h
 
 #include "itktubeMetaLDA.h"
 

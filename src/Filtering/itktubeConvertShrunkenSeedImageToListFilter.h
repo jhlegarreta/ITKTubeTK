@@ -19,8 +19,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __itktubeConvertShrunkenSeedImageToListFilter_h
-#define __itktubeConvertShrunkenSeedImageToListFilter_h
+#ifndef itktubeConvertShrunkenSeedImageToListFilter_h
+#define itktubeConvertShrunkenSeedImageToListFilter_h
 
 #include <itkProcessObject.h>
 #include <itkImage.h>

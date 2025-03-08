@@ -29,8 +29,8 @@ limitations under the License.
  *  \ingroup TubeTK
  */
 
-#ifndef __tubeWrappingMacros_h
-#define __tubeWrappingMacros_h
+#ifndef tubeWrappingMacros_h
+#define tubeWrappingMacros_h
 
 /** Boolean macro */
 #define tubeWrapBooleanMacro( name, wrap_filter_object_name )   \

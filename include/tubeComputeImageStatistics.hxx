@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeComputeImageStatistics_hxx
-#define __tubeComputeImageStatistics_hxx
+#ifndef tubeComputeImageStatistics_hxx
+#define tubeComputeImageStatistics_hxx
 
 
 namespace tube

@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeComputeTubeFlyThroughImage_h
-#define __tubeComputeTubeFlyThroughImage_h
+#ifndef tubeComputeTubeFlyThroughImage_h
+#define tubeComputeTubeFlyThroughImage_h
 
 // ITK includes
 #include <itkProcessObject.h>

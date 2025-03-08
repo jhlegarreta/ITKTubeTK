@@ -15,8 +15,8 @@
  *  limitations under the License.
  *
 *=========================================================================*/
-#ifndef __itktubePadImageFilter_h
-#define __itktubePadImageFilter_h
+#ifndef itktubePadImageFilter_h
+#define itktubePadImageFilter_h
 
 #include "itkImageToImageFilter.h"
 #include "itkConceptChecking.h"

@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeComputeTubeMeasuresFilter_h
-#define __itktubeComputeTubeMeasuresFilter_h
+#ifndef itktubeComputeTubeMeasuresFilter_h
+#define itktubeComputeTubeMeasuresFilter_h
 
 #include <itkImageToImageFilter.h>
 #include <itktubeRidgeFFTFilter.h>

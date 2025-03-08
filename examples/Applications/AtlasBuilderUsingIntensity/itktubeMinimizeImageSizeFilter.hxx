@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeMinimizeImageSizeFilter_hxx
-#define __itktubeMinimizeImageSizeFilter_hxx
+#ifndef itktubeMinimizeImageSizeFilter_hxx
+#define itktubeMinimizeImageSizeFilter_hxx
 
 
 namespace itk

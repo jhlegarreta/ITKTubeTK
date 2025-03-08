@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeSpatialObjectMomentsCalculator_h
-#define __itktubeSpatialObjectMomentsCalculator_h
+#ifndef itktubeSpatialObjectMomentsCalculator_h
+#define itktubeSpatialObjectMomentsCalculator_h
 
 #include "itkAffineTransform.h"
 #include "itkMacro.h"

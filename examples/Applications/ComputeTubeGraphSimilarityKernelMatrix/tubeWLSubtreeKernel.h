@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __tubeWLSubtreeKernel_h
-#define __tubeWLSubtreeKernel_h
+#ifndef tubeWLSubtreeKernel_h
+#define tubeWLSubtreeKernel_h
 
 #include "GraphKernel.h"
 #include "tubeMessage.h"

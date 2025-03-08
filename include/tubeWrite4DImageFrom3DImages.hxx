@@ -19,8 +19,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeWrite4DImageFrom3DImages_hxx
-#define __tubeWrite4DImageFrom3DImages_hxx
+#ifndef tubeWrite4DImageFrom3DImages_hxx
+#define tubeWrite4DImageFrom3DImages_hxx
 
 
 

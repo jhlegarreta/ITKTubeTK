@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __tubeUserFunction_h
-#define __tubeUserFunction_h
+#ifndef tubeUserFunction_h
+#define tubeUserFunction_h
 
 #include "tubeMacro.h"
 

@@ -19,8 +19,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeEnhanceTubesUsingDiscriminantAnalysis_h
-#define __tubeEnhanceTubesUsingDiscriminantAnalysis_h
+#ifndef tubeEnhanceTubesUsingDiscriminantAnalysis_h
+#define tubeEnhanceTubesUsingDiscriminantAnalysis_h
 
 // ITK Includes
 #include "itkProcessObject.h"

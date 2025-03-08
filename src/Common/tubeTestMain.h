@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __tubeTestMain_h
-#define __tubeTestMain_h
+#ifndef tubeTestMain_h
+#define tubeTestMain_h
 
 // This file is used to create TestDriver executables
 // These executables are able to register a function pointer to a string name

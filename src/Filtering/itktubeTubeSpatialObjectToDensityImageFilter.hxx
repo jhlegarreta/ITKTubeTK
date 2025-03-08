@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeTubeSpatialObjectToDensityImageFilter_hxx
-#define __itktubeTubeSpatialObjectToDensityImageFilter_hxx
+#ifndef itktubeTubeSpatialObjectToDensityImageFilter_hxx
+#define itktubeTubeSpatialObjectToDensityImageFilter_hxx
 
 
 /** Constructor */

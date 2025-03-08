@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeMeanSquareRegistrationFunction_hxx
-#define __itktubeMeanSquareRegistrationFunction_hxx
+#ifndef itktubeMeanSquareRegistrationFunction_hxx
+#define itktubeMeanSquareRegistrationFunction_hxx
 
 
 #include <vnl/vnl_math.h>

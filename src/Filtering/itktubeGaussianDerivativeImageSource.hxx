@@ -15,8 +15,8 @@
  *  limitations under the License.
  *
 *=========================================================================*/
-#ifndef __itktubeGaussianDerivativeImageSource_hxx
-#define __itktubeGaussianDerivativeImageSource_hxx
+#ifndef itktubeGaussianDerivativeImageSource_hxx
+#define itktubeGaussianDerivativeImageSource_hxx
 
 #include <itkGaussianSpatialFunction.h>
 #include <itkImageRegionIterator.h>

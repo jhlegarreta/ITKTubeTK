@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itkAnisotropicSimilarity3DTransform_hxx
-#define __itkAnisotropicSimilarity3DTransform_hxx
+#ifndef itkAnisotropicSimilarity3DTransform_hxx
+#define itkAnisotropicSimilarity3DTransform_hxx
 
 #include "vnl/vnl_math.h"
 #include "vnl/vnl_det.h"

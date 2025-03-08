@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubePDFSegmenterBase_hxx
-#define __itktubePDFSegmenterBase_hxx
+#ifndef itktubePDFSegmenterBase_hxx
+#define itktubePDFSegmenterBase_hxx
 
 #include "itktubeVectorImageToListGenerator.h"
 

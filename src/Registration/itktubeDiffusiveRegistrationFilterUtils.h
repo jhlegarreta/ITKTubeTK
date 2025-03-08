@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeDiffusiveRegistrationFilterUtils_h
-#define __itktubeDiffusiveRegistrationFilterUtils_h
+#ifndef itktubeDiffusiveRegistrationFilterUtils_h
+#define itktubeDiffusiveRegistrationFilterUtils_h
 
 #include <vector>
 

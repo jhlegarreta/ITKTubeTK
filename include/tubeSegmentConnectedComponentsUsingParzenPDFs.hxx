@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeSegmentConnectedComponentsUsingParzenPDFs_hxx
-#define __tubeSegmentConnectedComponentsUsingParzenPDFs_hxx
+#ifndef tubeSegmentConnectedComponentsUsingParzenPDFs_hxx
+#define tubeSegmentConnectedComponentsUsingParzenPDFs_hxx
 
 
 namespace tube

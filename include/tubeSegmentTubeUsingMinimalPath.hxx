@@ -15,8 +15,8 @@
  *  limitations under the License.
  *
 *=========================================================================*/
-#ifndef __tubeSegmentTubeUsingMinimalPath_hxx
-#define __tubeSegmentTubeUsingMinimalPath_hxx
+#ifndef tubeSegmentTubeUsingMinimalPath_hxx
+#define tubeSegmentTubeUsingMinimalPath_hxx
 
 
 namespace tube

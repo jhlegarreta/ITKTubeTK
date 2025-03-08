@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeMergeAdjacentImagesFilter_h
-#define __itktubeMergeAdjacentImagesFilter_h
+#ifndef itktubeMergeAdjacentImagesFilter_h
+#define itktubeMergeAdjacentImagesFilter_h
 
 // standard includes
 #include <vector>

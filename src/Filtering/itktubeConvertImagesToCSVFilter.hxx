@@ -16,8 +16,8 @@
  *
 *=========================================================================*/
 
-#ifndef __itktubeConvertImagesToCSVFilter_hxx
-#define __itktubeConvertImagesToCSVFilter_hxx
+#ifndef itktubeConvertImagesToCSVFilter_hxx
+#define itktubeConvertImagesToCSVFilter_hxx
 
 
 namespace itk

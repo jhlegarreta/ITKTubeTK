@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeTubeEnhancingDiffusion2DImageFilter_hxx
-#define __itktubeTubeEnhancingDiffusion2DImageFilter_hxx
+#ifndef itktubeTubeEnhancingDiffusion2DImageFilter_hxx
+#define itktubeTubeEnhancingDiffusion2DImageFilter_hxx
 
 
 #include <itkCastImageFilter.h>

@@ -18,8 +18,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __itktubeBinaryThinningImageFilter3D_h
-#define __itktubeBinaryThinningImageFilter3D_h
+#ifndef itktubeBinaryThinningImageFilter3D_h
+#define itktubeBinaryThinningImageFilter3D_h
 
 #include <list>
 #include <itkNeighborhoodIterator.h>

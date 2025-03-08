@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeRobustMeanAndSigmaImageBuilder_h
-#define __itktubeRobustMeanAndSigmaImageBuilder_h
+#ifndef itktubeRobustMeanAndSigmaImageBuilder_h
+#define itktubeRobustMeanAndSigmaImageBuilder_h
 
 #include "itktubeMeanAndSigmaImageBuilder.h"
 #include "tubeMessage.h"

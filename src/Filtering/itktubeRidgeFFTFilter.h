@@ -15,8 +15,8 @@
  *  limitations under the License.
  *
 *=========================================================================*/
-#ifndef __itktubeRidgeFFTFilter_h
-#define __itktubeRidgeFFTFilter_h
+#ifndef itktubeRidgeFFTFilter_h
+#define itktubeRidgeFFTFilter_h
 
 #include "itkImageToImageFilter.h"
 

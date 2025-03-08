@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeJointHistogramImageFunction_h
-#define __itktubeJointHistogramImageFunction_h
+#ifndef itktubeJointHistogramImageFunction_h
+#define itktubeJointHistogramImageFunction_h
 
 #include <itkImage.h>
 #include <itkImageFunction.h>

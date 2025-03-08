@@ -15,8 +15,8 @@
  *  limitations under the License.
  *
 *=========================================================================*/
-#ifndef __tubeRegisterImages_hxx
-#define __tubeRegisterImages_hxx
+#ifndef tubeRegisterImages_hxx
+#define tubeRegisterImages_hxx
 
 
 namespace tube

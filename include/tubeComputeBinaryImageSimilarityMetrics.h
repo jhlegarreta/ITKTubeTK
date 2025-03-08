@@ -19,8 +19,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeComputeBinaryImageSimilarityMetrics_h
-#define __tubeComputeBinaryImageSimilarityMetrics_h
+#ifndef tubeComputeBinaryImageSimilarityMetrics_h
+#define tubeComputeBinaryImageSimilarityMetrics_h
 
 // ITK Includes
 #include "itkProcessObject.h"

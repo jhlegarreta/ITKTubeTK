@@ -15,8 +15,8 @@
  *  limitations under the License.
  *
 *=========================================================================*/
-#ifndef __itktubeSegmentTubeUsingMinimalPathFilter_hxx
-#define __itktubeSegmentTubeUsingMinimalPathFilter_hxx
+#ifndef itktubeSegmentTubeUsingMinimalPathFilter_hxx
+#define itktubeSegmentTubeUsingMinimalPathFilter_hxx
 
 
 // MinimalPathExtraction Imports

@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeConvertImagesToCSV_h
-#define __tubeConvertImagesToCSV_h
+#ifndef tubeConvertImagesToCSV_h
+#define tubeConvertImagesToCSV_h
 
 // ITK Includes
 #include "itkProcessObject.h"

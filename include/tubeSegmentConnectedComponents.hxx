@@ -19,8 +19,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeSegmentConnectedComponents_hxx
-#define __tubeSegmentConnectedComponents_hxx
+#ifndef tubeSegmentConnectedComponents_hxx
+#define tubeSegmentConnectedComponents_hxx
 
 
 namespace tube

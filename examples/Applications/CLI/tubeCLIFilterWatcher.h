@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __tubeCLIFilterWatcher_h
-#define __tubeCLIFilterWatcher_h
+#ifndef tubeCLIFilterWatcher_h
+#define tubeCLIFilterWatcher_h
 
 #include <itkSimpleFilterWatcher.h>
 

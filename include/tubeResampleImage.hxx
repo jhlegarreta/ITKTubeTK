@@ -15,8 +15,8 @@
  *  limitations under the License.
  *
 *=========================================================================*/
-#ifndef __tubeResampleImage_hxx
-#define __tubeResampleImage_hxx
+#ifndef tubeResampleImage_hxx
+#define tubeResampleImage_hxx
 
 
 namespace tube

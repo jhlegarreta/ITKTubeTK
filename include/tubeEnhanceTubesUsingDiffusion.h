@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeEnhanceTubesUsingDiffusion_h
-#define __tubeEnhanceTubesUsingDiffusion_h
+#ifndef tubeEnhanceTubesUsingDiffusion_h
+#define tubeEnhanceTubesUsingDiffusion_h
 
 // ITK includes
 #include <itkProcessObject.h>

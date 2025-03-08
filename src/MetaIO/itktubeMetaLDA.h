@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeMetaLDA_h
-#define __itktubeMetaLDA_h
+#ifndef itktubeMetaLDA_h
+#define itktubeMetaLDA_h
 
 #include <metaTypes.h>
 #include <metaForm.h>

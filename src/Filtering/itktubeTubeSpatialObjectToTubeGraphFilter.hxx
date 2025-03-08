@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeTubeSpatialObjectToTubeGraphFilter_hxx
-#define __itktubeTubeSpatialObjectToTubeGraphFilter_hxx
+#ifndef itktubeTubeSpatialObjectToTubeGraphFilter_hxx
+#define itktubeTubeSpatialObjectToTubeGraphFilter_hxx
 
 
 /** Constructor */

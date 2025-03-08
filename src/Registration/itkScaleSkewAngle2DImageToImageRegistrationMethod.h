@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itkScaleSkewAngle2DImageToImageRegistrationMethod_h
-#define __itkScaleSkewAngle2DImageToImageRegistrationMethod_h
+#ifndef itkScaleSkewAngle2DImageToImageRegistrationMethod_h
+#define itkScaleSkewAngle2DImageToImageRegistrationMethod_h
 
 #include "itkImage.h"
 #include "itkScaleSkewAngle2DTransform.h"

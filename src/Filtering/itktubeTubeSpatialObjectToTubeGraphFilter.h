@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeTubeSpatialObjectToTubeGraphFilter_h
-#define __itktubeTubeSpatialObjectToTubeGraphFilter_h
+#ifndef itktubeTubeSpatialObjectToTubeGraphFilter_h
+#define itktubeTubeSpatialObjectToTubeGraphFilter_h
 
 #include <itkMinimumMaximumImageFilter.h>
 #include <itkGroupSpatialObject.h>

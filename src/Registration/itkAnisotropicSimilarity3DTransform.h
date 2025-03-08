@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itkAnisotropicSimilarity3DTransform_h
-#define __itkAnisotropicSimilarity3DTransform_h
+#ifndef itkAnisotropicSimilarity3DTransform_h
+#define itkAnisotropicSimilarity3DTransform_h
 
 #include <iostream>
 #include "itkVersorRigid3DTransform.h"

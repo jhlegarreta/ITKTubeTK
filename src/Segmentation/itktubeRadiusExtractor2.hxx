@@ -25,8 +25,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __itktubeRadiusExtractor2_hxx
-#define __itktubeRadiusExtractor2_hxx
+#ifndef itktubeRadiusExtractor2_hxx
+#define itktubeRadiusExtractor2_hxx
 
 
 #include "tubeMessage.h"

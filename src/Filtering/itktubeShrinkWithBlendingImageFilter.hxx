@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __itktubeShrinkWithBlendingImageFilter_hxx
-#define __itktubeShrinkWithBlendingImageFilter_hxx
+#ifndef itktubeShrinkWithBlendingImageFilter_hxx
+#define itktubeShrinkWithBlendingImageFilter_hxx
 
 
 #include "itkConstNeighborhoodIterator.h"

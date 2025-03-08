@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeCropTubes_h
-#define __tubeCropTubes_h
+#ifndef tubeCropTubes_h
+#define tubeCropTubes_h
 
 #include "itktubeCropTubesFilter.h"
 #include "itkProcessObject.h"

@@ -20,8 +20,8 @@
 
 =========================================================================*/
 
-#ifndef __itktubeResampleTubesFilter_h
-#define __itktubeResampleTubesFilter_h
+#ifndef itktubeResampleTubesFilter_h
+#define itktubeResampleTubesFilter_h
 
 #include "itkSpatialObject.h"
 #include "itkImage.h"

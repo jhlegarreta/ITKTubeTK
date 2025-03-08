@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeSpatialObjectSource_hxx
-#define __itktubeSpatialObjectSource_hxx
+#ifndef itktubeSpatialObjectSource_hxx
+#define itktubeSpatialObjectSource_hxx
 
 
 #include <itkTextOutput.h>

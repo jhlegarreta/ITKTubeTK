@@ -19,8 +19,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __itktubePDFSegmenterParzenIO_hxx
-#define __itktubePDFSegmenterParzenIO_hxx
+#ifndef itktubePDFSegmenterParzenIO_hxx
+#define itktubePDFSegmenterParzenIO_hxx
 
 #include "itktubeMetaClassPDF.h"
 #include "metaUtils.h"

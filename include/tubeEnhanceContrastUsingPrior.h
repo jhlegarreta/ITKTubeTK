@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeEnhanceContrastUsingPrior_h
-#define __tubeEnhanceContrastUsingPrior_h
+#ifndef tubeEnhanceContrastUsingPrior_h
+#define tubeEnhanceContrastUsingPrior_h
 
 // ITK Includes
 #include "itkProcessObject.h"

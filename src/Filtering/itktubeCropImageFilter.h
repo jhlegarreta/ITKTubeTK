@@ -15,8 +15,8 @@
  *  limitations under the License.
  *
 *=========================================================================*/
-#ifndef __itktubeCropImageFilter_h
-#define __itktubeCropImageFilter_h
+#ifndef itktubeCropImageFilter_h
+#define itktubeCropImageFilter_h
 
 #include "itkImage.h"
 #include "itkExtractImageFilter.h"

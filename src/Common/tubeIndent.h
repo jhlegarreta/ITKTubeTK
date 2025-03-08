@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __tubeIndent_h
-#define __tubeIndent_h
+#ifndef tubeIndent_h
+#define tubeIndent_h
 
 #include "tubeMacro.h"
 

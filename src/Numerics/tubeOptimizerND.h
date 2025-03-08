@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __tubeOptimizerND_h
-#define __tubeOptimizerND_h
+#ifndef tubeOptimizerND_h
+#define tubeOptimizerND_h
 
 #include "tubeMatrixMath.h"
 #include "tubeOptimizer1D.h"

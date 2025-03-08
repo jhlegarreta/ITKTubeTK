@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeVectorImageToListGenerator_h
-#define __itktubeVectorImageToListGenerator_h
+#ifndef itktubeVectorImageToListGenerator_h
+#define itktubeVectorImageToListGenerator_h
 
 #include <itkDataObject.h>
 #include <itkDataObjectDecorator.h>

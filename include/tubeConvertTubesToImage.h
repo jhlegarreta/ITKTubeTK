@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeConvertTubesToImage_h
-#define __tubeConvertTubesToImage_h
+#ifndef tubeConvertTubesToImage_h
+#define tubeConvertTubesToImage_h
 
 // ITK includes
 #include <itkGroupSpatialObject.h>

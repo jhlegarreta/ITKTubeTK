@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeCompleteImageResampleFilter_h
-#define __itktubeCompleteImageResampleFilter_h
+#ifndef itktubeCompleteImageResampleFilter_h
+#define itktubeCompleteImageResampleFilter_h
 
 #include <itkFixedArray.h>
 #include <itkImageFunction.h>

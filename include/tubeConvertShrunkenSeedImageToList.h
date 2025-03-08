@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeConvertShrunkenSeedImageToList_h
-#define __tubeConvertShrunkenSeedImageToList_h
+#ifndef tubeConvertShrunkenSeedImageToList_h
+#define tubeConvertShrunkenSeedImageToList_h
 
 // ITK Includes
 #include "itkProcessObject.h"

@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __tubeImageMathFilters_hxx
-#define __tubeImageMathFilters_hxx
+#ifndef tubeImageMathFilters_hxx
+#define tubeImageMathFilters_hxx
 
 #include <itkBinaryBallStructuringElement.h>
 #include <itkCastImageFilter.h>

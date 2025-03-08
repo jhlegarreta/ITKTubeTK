@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeInitialSpatialObjectToImageRegistrationMethod_hxx
-#define __itktubeInitialSpatialObjectToImageRegistrationMethod_hxx
+#ifndef itktubeInitialSpatialObjectToImageRegistrationMethod_hxx
+#define itktubeInitialSpatialObjectToImageRegistrationMethod_hxx
 
 
 //#include "itktubeSpatialObjectRegionMomentsCalculator.h"

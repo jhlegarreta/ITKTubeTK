@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeInverseIntensityImageFilter_h
-#define __itktubeInverseIntensityImageFilter_h
+#ifndef itktubeInverseIntensityImageFilter_h
+#define itktubeInverseIntensityImageFilter_h
 
 #include <itkImageToImageFilter.h>
 

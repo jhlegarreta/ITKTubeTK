@@ -20,8 +20,8 @@
 
 =========================================================================*/
 
-#ifndef __itktubeMinimumSpanningTreeVesselConnectivityFilter_hxx
-#define __itktubeMinimumSpanningTreeVesselConnectivityFilter_hxx
+#ifndef itktubeMinimumSpanningTreeVesselConnectivityFilter_hxx
+#define itktubeMinimumSpanningTreeVesselConnectivityFilter_hxx
 
 #include "tubeMatrixMath.h"
 #include "itkMath.h"

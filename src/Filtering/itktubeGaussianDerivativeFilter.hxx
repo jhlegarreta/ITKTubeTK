@@ -15,8 +15,8 @@
  *  limitations under the License.
  *
 *=========================================================================*/
-#ifndef __itktubeGaussianDerivativeFilter_hxx
-#define __itktubeGaussianDerivativeFilter_hxx
+#ifndef itktubeGaussianDerivativeFilter_hxx
+#define itktubeGaussianDerivativeFilter_hxx
 
 namespace itk
 {

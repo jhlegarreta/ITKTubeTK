@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itkScaleSkewVersor3DImageToImageRegistrationMethod_h
-#define __itkScaleSkewVersor3DImageToImageRegistrationMethod_h
+#ifndef itkScaleSkewVersor3DImageToImageRegistrationMethod_h
+#define itkScaleSkewVersor3DImageToImageRegistrationMethod_h
 
 #include "itkImage.h"
 #include "itkComposeScaleSkewVersor3DTransform.h"

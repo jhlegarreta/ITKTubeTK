@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __tubeMetaDocument_h
-#define __tubeMetaDocument_h
+#ifndef tubeMetaDocument_h
+#define tubeMetaDocument_h
 
 #include "tubeObject.h"
 

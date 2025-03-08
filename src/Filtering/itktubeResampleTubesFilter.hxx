@@ -20,8 +20,8 @@
 
 =========================================================================*/
 
-#ifndef __itktubeResampleTubesFilter_hxx
-#define __itktubeResampleTubesFilter_hxx
+#ifndef itktubeResampleTubesFilter_hxx
+#define itktubeResampleTubesFilter_hxx
 
 #include <iterator>
 

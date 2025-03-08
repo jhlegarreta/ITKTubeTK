@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __TubeTKLogo_h
-#define __TubeTKLogo_h
+#ifndef TubeTKLogo_h
+#define TubeTKLogo_h
 
 /* Resource generated for file TubeTKLogo.png ( zlib, base64 ) ( image file ) */
 static const unsigned int  image_TubeTKLogo_width          = 63;

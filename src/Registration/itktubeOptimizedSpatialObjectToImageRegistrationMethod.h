@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeOptimizedSpatialObjectToImageRegistrationMethod_h
-#define __itktubeOptimizedSpatialObjectToImageRegistrationMethod_h
+#ifndef itktubeOptimizedSpatialObjectToImageRegistrationMethod_h
+#define itktubeOptimizedSpatialObjectToImageRegistrationMethod_h
 
 #include "itkImage.h"
 

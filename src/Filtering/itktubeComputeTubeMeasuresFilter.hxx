@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeComputeTubeMeasuresFilter_hxx
-#define __itktubeComputeTubeMeasuresFilter_hxx
+#ifndef itktubeComputeTubeMeasuresFilter_hxx
+#define itktubeComputeTubeMeasuresFilter_hxx
 
 
 namespace itk

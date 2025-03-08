@@ -26,8 +26,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __tubeParabolicFitOptimizer1D_h
-#define __tubeParabolicFitOptimizer1D_h
+#ifndef tubeParabolicFitOptimizer1D_h
+#define tubeParabolicFitOptimizer1D_h
 
 #include "tubeOptimizer1D.h"
 #include "tubeUserFunction.h"

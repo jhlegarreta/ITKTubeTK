@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeVotingResampleImageFunction_h
-#define __itktubeVotingResampleImageFunction_h
+#ifndef itktubeVotingResampleImageFunction_h
+#define itktubeVotingResampleImageFunction_h
 
 #include <itkInterpolateImageFunction.h>
 

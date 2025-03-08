@@ -19,8 +19,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeTubeMathFilters_hxx
-#define __tubeTubeMathFilters_hxx
+#ifndef tubeTubeMathFilters_hxx
+#define tubeTubeMathFilters_hxx
 
 #include "itkNumericTraits.h"
 #include "itkImageRegionIterator.h"

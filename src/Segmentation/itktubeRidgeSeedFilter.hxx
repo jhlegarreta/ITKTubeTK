@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeRidgeSeedFilter_hxx
-#define __itktubeRidgeSeedFilter_hxx
+#ifndef itktubeRidgeSeedFilter_hxx
+#define itktubeRidgeSeedFilter_hxx
 
 
 #include "tubeMatrixMath.h"

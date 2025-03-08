@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeConvertShrunkenSeedImageToListFilter_hxx
-#define __itktubeConvertShrunkenSeedImageToListFilter_hxx
+#ifndef itktubeConvertShrunkenSeedImageToListFilter_hxx
+#define itktubeConvertShrunkenSeedImageToListFilter_hxx
 
 
 namespace itk

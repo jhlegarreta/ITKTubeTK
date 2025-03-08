@@ -19,8 +19,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __itktubeMergeAdjacentImagesFilter_hxx
-#define __itktubeMergeAdjacentImagesFilter_hxx
+#ifndef itktubeMergeAdjacentImagesFilter_hxx
+#define itktubeMergeAdjacentImagesFilter_hxx
 
 // ITK includes
 #include <itkBinaryThresholdImageFilter.h>

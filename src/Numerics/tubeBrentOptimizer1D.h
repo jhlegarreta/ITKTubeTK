@@ -26,8 +26,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __tubeBrentOptimizer1D_h
-#define __tubeBrentOptimizer1D_h
+#ifndef tubeBrentOptimizer1D_h
+#define tubeBrentOptimizer1D_h
 
 #include "tubeOptimizer1D.h"
 #include "tubeUserFunction.h"

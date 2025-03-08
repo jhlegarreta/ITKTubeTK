@@ -23,8 +23,8 @@ limitations under the License.
 /** Defines standard macros for classes not derived from classes in ITK or VTK.
     For ITK-derived classes use <itkMacro.h>. */
 
-#ifndef __tubeMacro_h
-#define __tubeMacro_h
+#ifndef tubeMacro_h
+#define tubeMacro_h
 
 #include <cstdlib>
 #include <cstring>

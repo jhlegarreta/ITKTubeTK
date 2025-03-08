@@ -15,8 +15,8 @@
  *  limitations under the License.
  *
 *=========================================================================*/
-#ifndef __tubeConvertSpatialGraphToImage_hxx
-#define __tubeConvertSpatialGraphToImage_hxx
+#ifndef tubeConvertSpatialGraphToImage_hxx
+#define tubeConvertSpatialGraphToImage_hxx
 
 
 namespace tube

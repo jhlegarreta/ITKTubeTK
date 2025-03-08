@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeCVTImageFilter_hxx
-#define __itktubeCVTImageFilter_hxx
+#ifndef itktubeCVTImageFilter_hxx
+#define itktubeCVTImageFilter_hxx
 
 
 #include <itkDanielssonDistanceMapImageFilter.h>

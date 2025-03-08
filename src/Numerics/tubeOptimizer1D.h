@@ -26,8 +26,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __tubeOptimizer1D_h
-#define __tubeOptimizer1D_h
+#ifndef tubeOptimizer1D_h
+#define tubeOptimizer1D_h
 
 #include "tubeObject.h"
 #include "tubeUserFunction.h"

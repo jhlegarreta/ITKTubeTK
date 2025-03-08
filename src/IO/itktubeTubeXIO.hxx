@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeTubeXIO_hxx
-#define __itktubeTubeXIO_hxx
+#ifndef itktubeTubeXIO_hxx
+#define itktubeTubeXIO_hxx
 
 #include <cmath>
 

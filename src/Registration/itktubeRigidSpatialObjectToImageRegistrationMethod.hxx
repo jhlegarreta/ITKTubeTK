@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __tubeRigidSpatialObjectToImageRegistrationMethod_hxx
-#define __tubeRigidSpatialObjectToImageRegistrationMethod_hxx
+#ifndef tubeRigidSpatialObjectToImageRegistrationMethod_hxx
+#define tubeRigidSpatialObjectToImageRegistrationMethod_hxx
 
 
 #include "vnl/vnl_inverse.h"

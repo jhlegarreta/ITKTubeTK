@@ -20,8 +20,8 @@
 
 =========================================================================*/
 
-#ifndef __itkGeneralizedDistanceTransformImageFilter_h
-#define __itkGeneralizedDistanceTransformImageFilter_h
+#ifndef itkGeneralizedDistanceTransformImageFilter_h
+#define itkGeneralizedDistanceTransformImageFilter_h
 
 #include "itkImageToImageFilter.h"
 

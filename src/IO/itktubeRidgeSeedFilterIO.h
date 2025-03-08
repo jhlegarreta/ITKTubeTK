@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeRidgeSeedFilterIO_h
-#define __itktubeRidgeSeedFilterIO_h
+#ifndef itktubeRidgeSeedFilterIO_h
+#define itktubeRidgeSeedFilterIO_h
 
 #include "itktubeMetaRidgeSeed.h"
 

@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeConvertTubesToImage_hxx
-#define __tubeConvertTubesToImage_hxx
+#ifndef tubeConvertTubesToImage_hxx
+#define tubeConvertTubesToImage_hxx
 
 
 namespace tube

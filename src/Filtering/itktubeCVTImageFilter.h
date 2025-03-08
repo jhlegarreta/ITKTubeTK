@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeCVTImageFilter_h
-#define __itktubeCVTImageFilter_h
+#ifndef itktubeCVTImageFilter_h
+#define itktubeCVTImageFilter_h
 
 #include <itkContinuousIndex.h>
 #include <itkImage.h>

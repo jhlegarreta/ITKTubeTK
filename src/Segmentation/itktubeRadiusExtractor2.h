@@ -26,8 +26,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeRadiusExtractor2_h
-#define __itktubeRadiusExtractor2_h
+#ifndef itktubeRadiusExtractor2_h
+#define itktubeRadiusExtractor2_h
 
 #include "itktubeBlurImageFunction.h"
 

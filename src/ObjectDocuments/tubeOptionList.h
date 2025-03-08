@@ -38,8 +38,8 @@ PURPOSE.  See the above copyright notices for more information.
 
 =========================================================================*/
 
-#ifndef __tubeOptionList_h
-#define __tubeOptionList_h
+#ifndef tubeOptionList_h
+#define tubeOptionList_h
 
 #include "tubeObject.h"
 

@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeComputeTubeFlyThroughImage_hxx
-#define __tubeComputeTubeFlyThroughImage_hxx
+#ifndef tubeComputeTubeFlyThroughImage_hxx
+#define tubeComputeTubeFlyThroughImage_hxx
 
 
 namespace tube

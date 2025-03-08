@@ -19,8 +19,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __tubeImageMathFilters_h
-#define __tubeImageMathFilters_h
+#ifndef tubeImageMathFilters_h
+#define tubeImageMathFilters_h
 
 #include <itkImageFileReader.h>
 #include <itkContinuousIndex.h>

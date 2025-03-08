@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeConvertTubesToTubeGraph_h
-#define __tubeConvertTubesToTubeGraph_h
+#ifndef tubeConvertTubesToTubeGraph_h
+#define tubeConvertTubesToTubeGraph_h
 
 // ITK includes
 #include "itkMacro.h"

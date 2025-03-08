@@ -15,8 +15,8 @@
  *  limitations under the License.
  *
 *=========================================================================*/
-#ifndef __itktubeConvertImagesToCSVFilter_h
-#define __itktubeConvertImagesToCSVFilter_h
+#ifndef itktubeConvertImagesToCSVFilter_h
+#define itktubeConvertImagesToCSVFilter_h
 
 #include <itkProcessObject.h>
 #include <itkImage.h>

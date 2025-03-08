@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeEnhanceTubesUsingDiffusion_hxx
-#define __tubeEnhanceTubesUsingDiffusion_hxx
+#ifndef tubeEnhanceTubesUsingDiffusion_hxx
+#define tubeEnhanceTubesUsingDiffusion_hxx
 
 
 #include <vector>

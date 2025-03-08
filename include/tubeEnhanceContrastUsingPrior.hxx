@@ -15,8 +15,8 @@
  *  limitations under the License.
  *
 *=========================================================================*/
-#ifndef __tubeEnhanceContrastUsingPrior_hxx
-#define __tubeEnhanceContrastUsingPrior_hxx
+#ifndef tubeEnhanceContrastUsingPrior_hxx
+#define tubeEnhanceContrastUsingPrior_hxx
 
 
 namespace tube

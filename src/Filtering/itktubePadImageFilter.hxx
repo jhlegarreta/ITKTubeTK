@@ -15,8 +15,8 @@
  *  limitations under the License.
  *
 *=========================================================================*/
-#ifndef __itktubePadImageFilter_hxx
-#define __itktubePadImageFilter_hxx
+#ifndef itktubePadImageFilter_hxx
+#define itktubePadImageFilter_hxx
 
 #include "itkProgressAccumulator.h"
 #include "itkNumericTraits.h"

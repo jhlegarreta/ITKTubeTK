@@ -15,8 +15,8 @@
  *  limitations under the License.
  *
 *=========================================================================*/
-#ifndef __itktubeSegmentTubeUsingMinimalPathFilter_h
-#define __itktubeSegmentTubeUsingMinimalPathFilter_h
+#ifndef itktubeSegmentTubeUsingMinimalPathFilter_h
+#define itktubeSegmentTubeUsingMinimalPathFilter_h
 
 #include "itkImage.h"
 

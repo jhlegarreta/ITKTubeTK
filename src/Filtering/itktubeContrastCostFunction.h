@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeContrastCostFunction_h
-#define __itktubeContrastCostFunction_h
+#ifndef itktubeContrastCostFunction_h
+#define itktubeContrastCostFunction_h
 
 #include <itkSmoothingRecursiveGaussianImageFilter.h>
 #include <itkSingleValuedCostFunction.h>

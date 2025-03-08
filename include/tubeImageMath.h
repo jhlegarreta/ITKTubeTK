@@ -19,8 +19,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeImageMath_h
-#define __tubeImageMath_h
+#ifndef tubeImageMath_h
+#define tubeImageMath_h
 
 // ITK includes
 #include "itkProcessObject.h"

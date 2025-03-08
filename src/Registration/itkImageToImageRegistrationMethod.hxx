@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __ImageToImageRegistrationMethod_hxx
-#define __ImageToImageRegistrationMethod_hxx
+#ifndef ImageToImageRegistrationMethod_hxx
+#define ImageToImageRegistrationMethod_hxx
 
 
 namespace itk

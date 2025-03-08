@@ -15,8 +15,8 @@
  *  limitations under the License.
  *
 *=========================================================================*/
-#ifndef __itktubeRegionFromReferenceImageFilter_hxx
-#define __itktubeRegionFromReferenceImageFilter_hxx
+#ifndef itktubeRegionFromReferenceImageFilter_hxx
+#define itktubeRegionFromReferenceImageFilter_hxx
 
 
 namespace itk {

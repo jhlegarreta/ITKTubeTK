@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeComputeImageStatistics_h
-#define __itktubeComputeImageStatistics_h
+#ifndef itktubeComputeImageStatistics_h
+#define itktubeComputeImageStatistics_h
 
 // ITK includes
 #include <itkImage.h>

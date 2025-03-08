@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeMetaTubeExtractor_h
-#define __itktubeMetaTubeExtractor_h
+#ifndef itktubeMetaTubeExtractor_h
+#define itktubeMetaTubeExtractor_h
 
 #include <metaTypes.h>
 #include <metaForm.h>

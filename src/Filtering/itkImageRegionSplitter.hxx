@@ -15,8 +15,8 @@
  *  limitations under the License.
  *
 *=========================================================================*/
-#ifndef __itkImageRegionSplitter_hxx
-#define __itkImageRegionSplitter_hxx
+#ifndef itkImageRegionSplitter_hxx
+#define itkImageRegionSplitter_hxx
 
 #include <cmath>
 

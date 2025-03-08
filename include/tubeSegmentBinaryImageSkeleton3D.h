@@ -19,8 +19,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeSegmentBinaryImageSkeleton3D_h
-#define __tubeSegmentBinaryImageSkeleton3D_h
+#ifndef tubeSegmentBinaryImageSkeleton3D_h
+#define tubeSegmentBinaryImageSkeleton3D_h
 
 // ITK includes
 #include "itkProcessObject.h"

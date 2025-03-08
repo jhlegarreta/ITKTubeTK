@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeConvertSpatialGraphToImage_h
-#define __tubeConvertSpatialGraphToImage_h
+#ifndef tubeConvertSpatialGraphToImage_h
+#define tubeConvertSpatialGraphToImage_h
 
 // ITK Includes
 #include "itkProcessObject.h"

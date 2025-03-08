@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeTubeSpatialObjectToDensityImageFilter_h
-#define __itktubeTubeSpatialObjectToDensityImageFilter_h
+#ifndef itktubeTubeSpatialObjectToDensityImageFilter_h
+#define itktubeTubeSpatialObjectToDensityImageFilter_h
 
 #include "itktubeInverseIntensityImageFilter.h"
 #include "itktubeTubeSpatialObjectToImageFilter.h"

@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeTubeExtractorIO_h
-#define __itktubeTubeExtractorIO_h
+#ifndef itktubeTubeExtractorIO_h
+#define itktubeTubeExtractorIO_h
 
 #include "itktubeTubeExtractor.h"
 

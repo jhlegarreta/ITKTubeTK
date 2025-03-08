@@ -15,8 +15,8 @@
  *  limitations under the License.
  *
 *=========================================================================*/
-#ifndef __tubeEnhanceTubesUsingDiscriminantAnalysis_hxx
-#define __tubeEnhanceTubesUsingDiscriminantAnalysis_hxx
+#ifndef tubeEnhanceTubesUsingDiscriminantAnalysis_hxx
+#define tubeEnhanceTubesUsingDiscriminantAnalysis_hxx
 
 
 

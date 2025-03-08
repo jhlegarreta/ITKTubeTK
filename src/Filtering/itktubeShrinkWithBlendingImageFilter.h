@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeShrinkWithBlendingImageFilter_h
-#define __itktubeShrinkWithBlendingImageFilter_h
+#ifndef itktubeShrinkWithBlendingImageFilter_h
+#define itktubeShrinkWithBlendingImageFilter_h
 
 #include "itkShrinkImageFilter.h"
 

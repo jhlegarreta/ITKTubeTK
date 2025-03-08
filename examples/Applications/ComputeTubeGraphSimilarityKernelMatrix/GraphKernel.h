@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __GraphKernel_h
-#define __GraphKernel_h
+#ifndef GraphKernel_h
+#define GraphKernel_h
 
 #include "tubeMessage.h"
 

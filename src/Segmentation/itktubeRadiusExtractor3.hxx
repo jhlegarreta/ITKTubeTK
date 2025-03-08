@@ -25,8 +25,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __itktubeRadiusExtractor3_hxx
-#define __itktubeRadiusExtractor3_hxx
+#ifndef itktubeRadiusExtractor3_hxx
+#define itktubeRadiusExtractor3_hxx
 
 #include <algorithm>
 #include <math.h>

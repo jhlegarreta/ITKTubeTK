@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeSheetnessMeasureImageFilter_h
-#define __itktubeSheetnessMeasureImageFilter_h
+#ifndef itktubeSheetnessMeasureImageFilter_h
+#define itktubeSheetnessMeasureImageFilter_h
 
 #include <itkImageToImageFilter.h>
 #include <itkSymmetricEigenAnalysisImageFilter.h>

@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeMeanAndSigmaImageBuilder_hxx
-#define __itktubeMeanAndSigmaImageBuilder_hxx
+#ifndef itktubeMeanAndSigmaImageBuilder_hxx
+#define itktubeMeanAndSigmaImageBuilder_hxx
 
 
 template< class TInputImageType, class TOutputMeanImageType,

@@ -20,8 +20,8 @@
 
 =========================================================================*/
 
-#ifndef __itktubeCropTubesFilter_hxx
-#define __itktubeCropTubesFilter_hxx
+#ifndef itktubeCropTubesFilter_hxx
+#define itktubeCropTubesFilter_hxx
 
 #include "tubeMacro.h"
 #include "tubeTubeMathFilters.h"

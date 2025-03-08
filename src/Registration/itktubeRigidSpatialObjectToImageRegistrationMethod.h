@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeRigidSpatialObjectToImageRegistrationMethod_h
-#define __itktubeRigidSpatialObjectToImageRegistrationMethod_h
+#ifndef itktubeRigidSpatialObjectToImageRegistrationMethod_h
+#define itktubeRigidSpatialObjectToImageRegistrationMethod_h
 
 #include "itkImage.h"
 #include "itkAffineTransform.h"

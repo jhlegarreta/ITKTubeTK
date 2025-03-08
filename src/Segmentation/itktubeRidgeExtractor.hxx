@@ -26,8 +26,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeRidgeExtractor_hxx
-#define __itktubeRidgeExtractor_hxx
+#ifndef itktubeRidgeExtractor_hxx
+#define itktubeRidgeExtractor_hxx
 
 #include "tubeMessage.h"
 #include "tubeMatrixMath.h"

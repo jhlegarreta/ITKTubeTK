@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __tubeMatrixMath_h
-#define __tubeMatrixMath_h
+#ifndef tubeMatrixMath_h
+#define tubeMatrixMath_h
 
 #include "tubeMacro.h"
 

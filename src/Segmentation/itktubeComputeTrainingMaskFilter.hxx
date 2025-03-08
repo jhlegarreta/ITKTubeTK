@@ -19,8 +19,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __itktubeComputeTrainingMaskFilter_hxx
-#define __itktubeComputeTrainingMaskFilter_hxx
+#ifndef itktubeComputeTrainingMaskFilter_hxx
+#define itktubeComputeTrainingMaskFilter_hxx
 
 
 namespace itk

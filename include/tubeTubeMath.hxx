@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeTubeMath_hxx
-#define __tubeTubeMath_hxx
+#ifndef tubeTubeMath_hxx
+#define tubeTubeMath_hxx
 
 #include "tubeTubeMath.h"
 

@@ -18,8 +18,8 @@
    limitations under the License.
 =========================================================================*/
 
-#ifndef __itktubeComputeTrainingMaskFilter_h
-#define __itktubeComputeTrainingMaskFilter_h
+#ifndef itktubeComputeTrainingMaskFilter_h
+#define itktubeComputeTrainingMaskFilter_h
 
 #include <itkImageToImageFilter.h>
 

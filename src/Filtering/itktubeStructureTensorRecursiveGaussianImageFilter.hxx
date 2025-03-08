@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeStructureTensorRecursiveGaussianImageFilter_hxx
-#define __itktubeStructureTensorRecursiveGaussianImageFilter_hxx
+#ifndef itktubeStructureTensorRecursiveGaussianImageFilter_hxx
+#define itktubeStructureTensorRecursiveGaussianImageFilter_hxx
 
 
 #include <itkImageRegionIteratorWithIndex.h>

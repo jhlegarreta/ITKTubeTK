@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __itktubeTubeXIO_h
-#define __itktubeTubeXIO_h
+#ifndef itktubeTubeXIO_h
+#define itktubeTubeXIO_h
 
 #include "itkTubeSpatialObject.h"
 #include "itkGroupSpatialObject.h"

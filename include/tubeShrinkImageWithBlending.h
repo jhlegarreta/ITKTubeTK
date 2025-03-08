@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeShrinkImageWithBlending_h
-#define __tubeShrinkImageWithBlending_h
+#ifndef tubeShrinkImageWithBlending_h
+#define tubeShrinkImageWithBlending_h
 
 #include "itkProcessObject.h"
 

@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeAnisotropicDiffusionTensorFunction_hxx
-#define __itktubeAnisotropicDiffusionTensorFunction_hxx
+#ifndef itktubeAnisotropicDiffusionTensorFunction_hxx
+#define itktubeAnisotropicDiffusionTensorFunction_hxx
 
 
 #include <itkTextOutput.h>

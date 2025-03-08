@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeNJetFeatureVectorGenerator_hxx
-#define __itktubeNJetFeatureVectorGenerator_hxx
+#ifndef itktubeNJetFeatureVectorGenerator_hxx
+#define itktubeNJetFeatureVectorGenerator_hxx
 
 #include "itktubeNJetImageFunction.h"
 #include "tubeMatrixMath.h"

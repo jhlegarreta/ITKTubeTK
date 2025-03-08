@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __itktubeComputeImageStatistics_hxx
-#define __itktubeComputeImageStatistics_hxx
+#ifndef itktubeComputeImageStatistics_hxx
+#define itktubeComputeImageStatistics_hxx
 
 //ITK includes
 #include "itkImageRegionIterator.h"

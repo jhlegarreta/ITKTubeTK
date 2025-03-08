@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeMeanSquareRegistrationFunction_h
-#define __itktubeMeanSquareRegistrationFunction_h
+#ifndef itktubeMeanSquareRegistrationFunction_h
+#define itktubeMeanSquareRegistrationFunction_h
 
 #include <itkCentralDifferenceImageFunction.h>
 #include <itkCovariantVector.h>
@@ -171,7 +171,7 @@ public:
   /** Get the energy mutex lock  */
   void SetEnergy( double energy )
     {
-#ifndef __wasi__
+#ifndef wasi__
     std::lock_guard<std::mutex> mutexHolder(m_EnergyCalculationLock);
 #endif
     this->m_Energy = energy;
@@ -227,7 +227,7 @@ private:
   /** Threshold below which two intensity value are assumed to match. */
   double                          m_IntensityDifferenceThreshold;
 
-#ifndef __wasi__
+#ifndef wasi__
   mutable std::mutex              m_EnergyCalculationLock;
 #endif
 

@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeComputeImageSimilarityMetrics_h
-#define __itktubeComputeImageSimilarityMetrics_h
+#ifndef itktubeComputeImageSimilarityMetrics_h
+#define itktubeComputeImageSimilarityMetrics_h
 
 // ITK includes
 #include <itkObject.h>

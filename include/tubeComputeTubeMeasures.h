@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeComputeTubeMeasures_h
-#define __tubeComputeTubeMeasures_h
+#ifndef tubeComputeTubeMeasures_h
+#define tubeComputeTubeMeasures_h
 
 // ITK includes
 #include <itkProcessObject.h>

@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeMetaClassPDF_h
-#define __itktubeMetaClassPDF_h
+#ifndef itktubeMetaClassPDF_h
+#define itktubeMetaClassPDF_h
 
 #include <metaImage.h>
 #include <metaForm.h>

@@ -15,8 +15,8 @@
  *  limitations under the License.
  *
 *=========================================================================*/
-#ifndef __tubeComputeBinaryImageSimilarityMetrics_hxx
-#define __tubeComputeBinaryImageSimilarityMetrics_hxx
+#ifndef tubeComputeBinaryImageSimilarityMetrics_hxx
+#define tubeComputeBinaryImageSimilarityMetrics_hxx
 
 
 namespace tube

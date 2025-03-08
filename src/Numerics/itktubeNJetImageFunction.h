@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeNJetImageFunction_h
-#define __itktubeNJetImageFunction_h
+#ifndef itktubeNJetImageFunction_h
+#define itktubeNJetImageFunction_h
 
 #include <itkArray.h>
 #include <itkImageFunction.h>

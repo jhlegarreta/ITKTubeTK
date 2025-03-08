@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __tubeCLIHelperFunctions_h
-#define __tubeCLIHelperFunctions_h
+#ifndef tubeCLIHelperFunctions_h
+#define tubeCLIHelperFunctions_h
 
 #include <exception>
 

@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubePDFSegmenterParzen_h
-#define __itktubePDFSegmenterParzen_h
+#ifndef itktubePDFSegmenterParzen_h
+#define itktubePDFSegmenterParzen_h
 
 #include "itktubePDFSegmenterBase.h"
 

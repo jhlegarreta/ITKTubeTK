@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeConvertSpatialGraphToImageFilter_h
-#define __itktubeConvertSpatialGraphToImageFilter_h
+#ifndef itktubeConvertSpatialGraphToImageFilter_h
+#define itktubeConvertSpatialGraphToImageFilter_h
 
 #include <itkImage.h>
 #include <itkImageRegionIterator.h>

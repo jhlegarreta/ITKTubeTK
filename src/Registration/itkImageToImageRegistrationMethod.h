@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itkImageToImageRegistrationMethod_h
-#define __itkImageToImageRegistrationMethod_h
+#ifndef itkImageToImageRegistrationMethod_h
+#define itkImageToImageRegistrationMethod_h
 
 #include "itkSpatialObject.h"
 #include "itkImageRegistrationMethod.h"

@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeCropImage_hxx
-#define __tubeCropImage_hxx
+#ifndef tubeCropImage_hxx
+#define tubeCropImage_hxx
 
 
 

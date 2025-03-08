@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeEnhanceEdgesUsingDiffusion_hxx
-#define __tubeEnhanceEdgesUsingDiffusion_hxx
+#ifndef tubeEnhanceEdgesUsingDiffusion_hxx
+#define tubeEnhanceEdgesUsingDiffusion_hxx
 
 
 namespace tube

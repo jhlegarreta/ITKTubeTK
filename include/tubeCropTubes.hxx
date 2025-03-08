@@ -15,8 +15,8 @@
  *  limitations under the License.
  *
 *=========================================================================*/
-#ifndef __tubeCropTubes_hxx
-#define __tubeCropTubes_hxx
+#ifndef tubeCropTubes_hxx
+#define tubeCropTubes_hxx
 
 
 

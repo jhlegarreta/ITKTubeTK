@@ -26,8 +26,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __tubeGoldenMeanOptimizer1D_h
-#define __tubeGoldenMeanOptimizer1D_h
+#ifndef tubeGoldenMeanOptimizer1D_h
+#define tubeGoldenMeanOptimizer1D_h
 
 #include "tubeOptimizer1D.h"
 #include "tubeUserFunction.h"

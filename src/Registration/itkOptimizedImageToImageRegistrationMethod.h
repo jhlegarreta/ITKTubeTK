@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itkOptimizedImageToImageRegistrationMethod_h
-#define __itkOptimizedImageToImageRegistrationMethod_h
+#ifndef itkOptimizedImageToImageRegistrationMethod_h
+#define itkOptimizedImageToImageRegistrationMethod_h
 
 #include "itkImage.h"
 

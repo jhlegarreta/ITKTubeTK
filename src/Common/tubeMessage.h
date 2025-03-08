@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __tubeMessage_h
-#define __tubeMessage_h
+#ifndef tubeMessage_h
+#define tubeMessage_h
 
 #include "tubeMacro.h"
 

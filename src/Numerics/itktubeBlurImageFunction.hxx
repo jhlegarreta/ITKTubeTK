@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeBlurImageFunction_hxx
-#define __itktubeBlurImageFunction_hxx
+#ifndef itktubeBlurImageFunction_hxx
+#define itktubeBlurImageFunction_hxx
 
 
 #include <itkContinuousIndex.h>

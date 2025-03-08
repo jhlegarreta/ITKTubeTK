@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeShrinkImageWithBlending_hxx
-#define __tubeShrinkImageWithBlending_hxx
+#ifndef tubeShrinkImageWithBlending_hxx
+#define tubeShrinkImageWithBlending_hxx
 
 
 namespace tube {

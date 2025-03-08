@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeDiffusiveRegistrationFilterUtils_hxx
-#define __itktubeDiffusiveRegistrationFilterUtils_hxx
+#ifndef itktubeDiffusiveRegistrationFilterUtils_hxx
+#define itktubeDiffusiveRegistrationFilterUtils_hxx
 
 
 #include <itkMinimumMaximumImageCalculator.h>

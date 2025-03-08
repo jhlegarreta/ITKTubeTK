@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeCompleteImageResampleFilter_hxx
-#define __itktubeCompleteImageResampleFilter_hxx
+#ifndef itktubeCompleteImageResampleFilter_hxx
+#define itktubeCompleteImageResampleFilter_hxx
 
 
 namespace itk

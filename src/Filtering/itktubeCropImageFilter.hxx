@@ -15,8 +15,8 @@
  *  limitations under the License.
  *
 *=========================================================================*/
-#ifndef __itktubeCropImageFilter_hxx
-#define __itktubeCropImageFilter_hxx
+#ifndef itktubeCropImageFilter_hxx
+#define itktubeCropImageFilter_hxx
 
 
 namespace itk

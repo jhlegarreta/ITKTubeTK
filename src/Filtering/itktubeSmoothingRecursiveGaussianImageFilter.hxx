@@ -14,8 +14,8 @@
      PURPOSE.  See the above copyright notices for more information.
 
 =========================================================================*/
-#ifndef __itktubeSmoothingRecursiveGaussianImageFilter_hxx
-#define __itktubeSmoothingRecursiveGaussianImageFilter_hxx
+#ifndef itktubeSmoothingRecursiveGaussianImageFilter_hxx
+#define itktubeSmoothingRecursiveGaussianImageFilter_hxx
 
 #include "itkImageRegionIteratorWithIndex.h"
 #include "itkProgressAccumulator.h"

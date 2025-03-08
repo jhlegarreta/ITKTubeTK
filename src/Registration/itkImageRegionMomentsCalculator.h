@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itkImageRegionMomentsCalculator_h
-#define __itkImageRegionMomentsCalculator_h
+#ifndef itkImageRegionMomentsCalculator_h
+#define itkImageRegionMomentsCalculator_h
 
 #include "itkAffineTransform.h"
 #include "itkMacro.h"

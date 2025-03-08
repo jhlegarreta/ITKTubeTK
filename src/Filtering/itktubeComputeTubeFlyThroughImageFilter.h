@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeComputeTubeFlyThroughImageFilter_h
-#define __itktubeComputeTubeFlyThroughImageFilter_h
+#ifndef itktubeComputeTubeFlyThroughImageFilter_h
+#define itktubeComputeTubeFlyThroughImageFilter_h
 
 #include <itkGroupSpatialObject.h>
 #include <itkSpatialObjectToImageFilter.h>

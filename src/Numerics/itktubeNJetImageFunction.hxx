@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeNJetImageFunction_hxx
-#define __itktubeNJetImageFunction_hxx
+#ifndef itktubeNJetImageFunction_hxx
+#define itktubeNJetImageFunction_hxx
 
 #include "tubeMatrixMath.h"
 

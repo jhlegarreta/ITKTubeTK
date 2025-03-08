@@ -14,8 +14,8 @@
      PURPOSE.  See the above copyright notices for more information.
 
 =========================================================================*/
-#ifndef __itktubeRidgeFFTFilter_hxx
-#define __itktubeRidgeFFTFilter_hxx
+#ifndef itktubeRidgeFFTFilter_hxx
+#define itktubeRidgeFFTFilter_hxx
 
 #include <itkTimeProbesCollectorBase.h>
 

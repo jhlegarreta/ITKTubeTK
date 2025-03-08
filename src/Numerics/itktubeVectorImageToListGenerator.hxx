@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeVectorImageToListGenerator_hxx
-#define __itktubeVectorImageToListGenerator_hxx
+#ifndef itktubeVectorImageToListGenerator_hxx
+#define itktubeVectorImageToListGenerator_hxx
 
 
 #include <itkImageRegionConstIterator.h>

@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeTubeSpatialObjectToImageFilter_h
-#define __itktubeTubeSpatialObjectToImageFilter_h
+#ifndef itktubeTubeSpatialObjectToImageFilter_h
+#define itktubeTubeSpatialObjectToImageFilter_h
 
 #include <itkSpatialObject.h>
 #include <itkSpatialObjectToImageFilter.h>

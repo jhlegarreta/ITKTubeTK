@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __tubeCLIProgressReporter_h
-#define __tubeCLIProgressReporter_h
+#ifndef tubeCLIProgressReporter_h
+#define tubeCLIProgressReporter_h
 
 #include "tubeMacro.h"
 

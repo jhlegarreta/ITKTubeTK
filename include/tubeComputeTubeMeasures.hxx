@@ -20,8 +20,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 =========================================================================*/
-#ifndef __tubeComputeTubeMeasures_hxx
-#define __tubeComputeTubeMeasures_hxx
+#ifndef tubeComputeTubeMeasures_hxx
+#define tubeComputeTubeMeasures_hxx
 
 
 namespace tube

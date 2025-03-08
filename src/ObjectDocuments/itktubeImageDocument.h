@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeImageDocument_h
-#define __itktubeImageDocument_h
+#ifndef itktubeImageDocument_h
+#define itktubeImageDocument_h
 
 #include "itktubeObjectDocument.h"
 

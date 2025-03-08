@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itkInitialImageToImageRegistrationMethod_h
-#define __itkInitialImageToImageRegistrationMethod_h
+#ifndef itkInitialImageToImageRegistrationMethod_h
+#define itkInitialImageToImageRegistrationMethod_h
 
 #include "itkImage.h"
 #include "itkCommand.h"

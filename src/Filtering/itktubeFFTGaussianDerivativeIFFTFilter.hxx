@@ -14,8 +14,8 @@
      PURPOSE.  See the above copyright notices for more information.
 
 =========================================================================*/
-#ifndef __itktubeFFTGaussianDerivativeIFFTFilter_hxx
-#define __itktubeFFTGaussianDerivativeIFFTFilter_hxx
+#ifndef itktubeFFTGaussianDerivativeIFFTFilter_hxx
+#define itktubeFFTGaussianDerivativeIFFTFilter_hxx
 
 #include "itktubeGaussianDerivativeImageSource.h"
 #include "itktubePadImageFilter.h"

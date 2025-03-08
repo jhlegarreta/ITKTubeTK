@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeFFTGaussianDerivativeIFFTFilter_h
-#define __itktubeFFTGaussianDerivativeIFFTFilter_h
+#ifndef itktubeFFTGaussianDerivativeIFFTFilter_h
+#define itktubeFFTGaussianDerivativeIFFTFilter_h
 
 #include "itktubeGaussianDerivativeFilter.h"
 

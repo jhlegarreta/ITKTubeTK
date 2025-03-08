@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeRidgeSeedFilter_h
-#define __itktubeRidgeSeedFilter_h
+#ifndef itktubeRidgeSeedFilter_h
+#define itktubeRidgeSeedFilter_h
 
 #include "itktubeBasisFeatureVectorGenerator.h"
 #include "itktubePDFSegmenterBase.h"

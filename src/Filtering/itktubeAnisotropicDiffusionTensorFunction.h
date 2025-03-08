@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeAnisotropicDiffusionTensorFunction_h
-#define __itktubeAnisotropicDiffusionTensorFunction_h
+#ifndef itktubeAnisotropicDiffusionTensorFunction_h
+#define itktubeAnisotropicDiffusionTensorFunction_h
 
 #include <itkDiffusionTensor3D.h>
 #include <itkFiniteDifferenceFunction.h>

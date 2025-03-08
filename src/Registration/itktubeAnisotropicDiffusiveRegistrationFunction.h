@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeAnisotropicDiffusiveRegistrationFunction_h
-#define __itktubeAnisotropicDiffusiveRegistrationFunction_h
+#ifndef itktubeAnisotropicDiffusiveRegistrationFunction_h
+#define itktubeAnisotropicDiffusiveRegistrationFunction_h
 
 #include "itktubeAnisotropicDiffusionTensorFunction.h"
 #include "itktubeMeanSquareRegistrationFunction.h"
@@ -29,7 +29,7 @@ limitations under the License.
 #include <itkPDEDeformableRegistrationFunction.h>
 
 #include <vector>
-#ifndef __wasi__
+#ifndef wasi__
 #include <mutex>
 #endif
 
@@ -383,7 +383,7 @@ private:
   mutable double                        m_RegularizationEnergy;
 
   /** Mutex locks to protect modifications to metric values. */
-#ifndef __wasi__
+#ifndef wasi__
   mutable std::mutex                    m_MetricCalculationLock;
   mutable std::mutex                    m_EnergyCalculationLock;
 #endif

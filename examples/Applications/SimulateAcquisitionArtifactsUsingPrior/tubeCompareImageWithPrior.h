@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __tubeCompareImageWithPrior_h
-#define __tubeCompareImageWithPrior_h
+#ifndef tubeCompareImageWithPrior_h
+#define tubeCompareImageWithPrior_h
 
 #include "../CLI/tubeCLIProgressReporter.h"
 

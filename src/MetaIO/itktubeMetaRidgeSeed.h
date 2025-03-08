@@ -21,8 +21,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeMetaRidgeSeed_h
-#define __itktubeMetaRidgeSeed_h
+#ifndef itktubeMetaRidgeSeed_h
+#define itktubeMetaRidgeSeed_h
 
 
 #include "itktubeMetaLDA.h"
