@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itkAffineImageToImageRegistrationMethod_txx
-#define __itkAffineImageToImageRegistrationMethod_txx
+#ifndef __itkAffineImageToImageRegistrationMethod_hxx
+#define __itkAffineImageToImageRegistrationMethod_hxx
 
 
 namespace itk

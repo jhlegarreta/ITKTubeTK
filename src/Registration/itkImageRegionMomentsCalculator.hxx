@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef _itkImageRegionMomentsCalculator_txx
-#define _itkImageRegionMomentsCalculator_txx
+#ifndef _itkImageRegionMomentsCalculator_hxx
+#define _itkImageRegionMomentsCalculator_hxx
 
 #include "vnl/algo/vnl_real_eigensystem.h"
 #include "vnl/algo/vnl_symmetric_eigensystem.h"

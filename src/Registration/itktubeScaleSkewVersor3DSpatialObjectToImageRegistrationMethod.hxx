@@ -21,8 +21,8 @@ limitations under the License.
 =========================================================================*/
 
 
-#ifndef __itktubeScaleSkewVersor3DSpatialObjectToImageRegistrationMethod_txx
-#define __itktubeScaleSkewVersor3DSpatialObjectToImageRegistrationMethod_txx
+#ifndef __itktubeScaleSkewVersor3DSpatialObjectToImageRegistrationMethod_hxx
+#define __itktubeScaleSkewVersor3DSpatialObjectToImageRegistrationMethod_hxx
 
 
 namespace itk

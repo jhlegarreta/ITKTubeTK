@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef _itktubeSpatialObjectRegionMomentsCalculator_txx
-#define _itktubeSpatialObjectRegionMomentsCalculator_txx
+#ifndef _itktubeSpatialObjectRegionMomentsCalculator_hxx
+#define _itktubeSpatialObjectRegionMomentsCalculator_hxx
 
 #include "vnl/algo/vnl_real_eigensystem.h"
 #include "vnl/algo/vnl_symmetric_eigensystem.h"

@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itkBSplineImageToImageRegistrationMethod_txx
-#define __itkBSplineImageToImageRegistrationMethod_txx
+#ifndef __itkBSplineImageToImageRegistrationMethod_hxx
+#define __itkBSplineImageToImageRegistrationMethod_hxx
 
 
 #include "itkBSplineTransformInitializer.h"

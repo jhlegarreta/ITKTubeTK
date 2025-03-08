@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeScaleSkewAngle2DSpatialObjectToImageRegistrationMethod_txx
-#define __itktubeScaleSkewAngle2DSpatialObjectToImageRegistrationMethod_txx
+#ifndef __itktubeScaleSkewAngle2DSpatialObjectToImageRegistrationMethod_hxx
+#define __itktubeScaleSkewAngle2DSpatialObjectToImageRegistrationMethod_hxx
 
 
 namespace itk

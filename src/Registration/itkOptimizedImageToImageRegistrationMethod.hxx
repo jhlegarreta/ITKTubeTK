@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __OptimizedImageToImageRegistrationMethod_txx
-#define __OptimizedImageToImageRegistrationMethod_txx
+#ifndef __OptimizedImageToImageRegistrationMethod_hxx
+#define __OptimizedImageToImageRegistrationMethod_hxx
 
 
 #include "itkMattesMutualInformationImageToImageMetric.h"

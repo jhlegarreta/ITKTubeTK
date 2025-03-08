@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itkImageToImageRegistrationHelper_txx
-#define __itkImageToImageRegistrationHelper_txx
+#ifndef __itkImageToImageRegistrationHelper_hxx
+#define __itkImageToImageRegistrationHelper_hxx
 
 
 #include "itkImageFileReader.h"

@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeSpatialObjectToImageRegistrationMethod_txx
-#define __itktubeSpatialObjectToImageRegistrationMethod_txx
+#ifndef __itktubeSpatialObjectToImageRegistrationMethod_hxx
+#define __itktubeSpatialObjectToImageRegistrationMethod_hxx
 
 
 namespace itk

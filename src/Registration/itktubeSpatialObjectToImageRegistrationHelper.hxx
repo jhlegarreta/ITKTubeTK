@@ -20,8 +20,8 @@ limitations under the License.
 
 =========================================================================*/
 
-#ifndef __itktubeSpatialObjectToImageRegistrationHelper_txx
-#define __itktubeSpatialObjectToImageRegistrationHelper_txx
+#ifndef __itktubeSpatialObjectToImageRegistrationHelper_hxx
+#define __itktubeSpatialObjectToImageRegistrationHelper_hxx
 
 
 #include "itktubePointBasedSpatialObjectTransformFilter.h"
